@@ -4335,7 +4335,7 @@ h6.font-parisienne {
   .inspiro-slider .slide .slide-captions h1,
   .inspiro-slider .slide .slide-captions h2 {
     font-size: 40px;
-    line-height: 40px;
+    line-height: 25px;
     margin-bottom: 14px;
   }
   .inspiro-slider .slide .slide-captions > p {
@@ -18478,5 +18478,11 @@ body[data-bg-image] {
 @media only screen and (max-width: 850px) { 
 #logo {
 	display:none;
+}
+h2 {
+	font-size:16px;
+}
+.slide-captions {
+	font-size:80%;
 }
  }

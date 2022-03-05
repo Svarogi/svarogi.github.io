@@ -18475,3 +18475,8 @@ body[data-bg-image] {
 .card .card-body .wizard {
   padding: 1rem;
 }
+@media (min-width: 50px) and (max-width: 850px) { 
+#logo {
+	display:none;
+}
+ }

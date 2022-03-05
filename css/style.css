@@ -3966,25 +3966,25 @@ h6:not(:last-child),
 @media all and (max-width: 767px) {
   h1,
   .h1 {
-    font-size: 2.35714286em;
+    font-size: 1.55714286em;
     line-height: 1.36363636em;
   }
 
   h2,
   .h2 {
-    font-size: 1.78571429em;
-    line-height: 1.5em;
+    font-size: 1.28571429em;
+    line-height: 1.1em;
   }
 
   h3,
   .h3 {
-    font-size: 1.35714286em;
-    line-height: 1.85714286em;
+    font-size: 1.05714286em;
+    line-height: 1.05714286em;
   }
 
   .lead {
-    font-size: 1.35714286em;
-    line-height: 1.68421053em;
+    font-size: 1.05714286em;
+    line-height: 1.08421053em;
   }
 }
 .display-4 {
